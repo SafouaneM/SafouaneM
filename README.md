@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafouaneM&layout=compact&langs_count=6" />
 
+    <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7909/conversions/b8a1309a-ba53-48c7-bca3-9c36aab2338a-thumb.jpg">
